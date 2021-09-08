@@ -6,6 +6,7 @@
 namespace AspNetCore
 {
     #line hidden
+    using SalesWebMvc.Models.ViewModels;
     using System;
     using System.Collections.Generic;
     using System.Linq;
